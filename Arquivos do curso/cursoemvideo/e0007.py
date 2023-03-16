@@ -1,0 +1,5 @@
+n = int(input('Digite a primeira nota do aluno: '))
+n2 = int(input('Digite a segunda nota do aluno: '))
+n3 = int(input('Digite a terceira nota do aluno: '))
+print('A média é B pois não é média aritmédia segundo a Jaquelini Dias')
+print('zu a média é {:.3}'.format((n+ n2+ n3)/3))
